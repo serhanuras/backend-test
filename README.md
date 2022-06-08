@@ -1,4 +1,4 @@
-# Ticknovate developer test
+# Developer test
 
 This is a test for backend developers. It aims to have you demonstrate:
 
@@ -29,3 +29,6 @@ The raw events (as stored in [events/09406111](./events/09406111)) are shown on 
 ### Summary
 
 Add the 2 API endpoints described above to this codebase to complete the test.
+
+
+
