@@ -1,0 +1,17 @@
+### This is file for testing the end points, instead of using any UI based test tools like Swagger, or Postman
+### It is REST Client extension file.
+### https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+
+
+### Get account by id
+GET http://localhost:3000/accounts/09406111
+
+
+### Update account
+POST http://localhost:3000/accounts
+content-type: application/json
+
+{
+  "id": "09406111",
+  "accountName": "SERHAN URAS 1"
+}
